@@ -1,6 +1,6 @@
 # Git Demo Repo
 
-This is a demo app for learning Git
+This is a sample app for learning Git
 
 ## Roadmap
 * Add new features
